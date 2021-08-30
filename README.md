@@ -9,4 +9,5 @@ The PreProcessor notebooks generates a dataset that can be utilised to obtain a 
 
 Both, discrete and time-window models for classical and quantum architectures can be made by using 'time-window' or 'discrete' as input arguments passed into buildmodel() functions.
 
+Insights are obtained by executing validation functions within ModelMaker notebooks and are stored in the filesystem within Google Colab.
 
